@@ -3,7 +3,7 @@
     "anti_delete": true,
     "anti_call": true,
     "autorespon": true,
-    "user_register": true,
+    "user_register": false,
 	"prefix": ".",
 	"ownerNumber": "6281998425782",
 	"ownername": "Lisabotz❤🍭",
